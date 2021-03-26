@@ -32,6 +32,10 @@ Please unbind all actions from the Numpad on your keyboard as this project uses 
 * Patternscan for valid offsets
 ### Reverse engineered features
 * Custom field of view
+## Lotro related projects
+* [Lotro-FOV by Mklink](https://github.com/mklinik/lotro-fov) provides a manual on how to alter the FOV, to help players with motion sickness.
+* [MouseTracks by huntfx](https://github.com/huntfx/MouseTracks/) captures mouse input over a period of time for display in statistical graphics.
+* [OneLauncher by JeremyStepp](https://github.com/JeremyStepp/OneLauncher) aims to provide a custom launcher for Lotro with advanced features.
 
 [shield_release]: https://img.shields.io/github/v/release/pkurras/durinvi?color=green&include_prereleases&style=for-the-badge
 [shield_issue]: https://img.shields.io/github/issues-raw/pkurras/durinvi?style=for-the-badge
