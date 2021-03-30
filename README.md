@@ -26,12 +26,19 @@ Please unbind all actions from the Numpad on your keyboard as this project uses 
 * **F1** Reverts all changes and unloads the program
 * **NUMPAD ADD** Increases the field of view
 * **NUMPAD SUBTRACT** Decreases the field of view
+* **NUMPAD 1** Activated Misty Mode
+* **NUMPAD 2** Deactivated Misty Mode
 ## Features
 ### General Features
 * Launcher for injection
 * Patternscan for valid offsets
 ### Reverse engineered features
 * Custom field of view
+* Distance Fog
+## Comparison
+
+<img align="left" width="1000px" src="screens/comparison01.jpg" />
+
 ## Lotro related projects
 * [Lotro-FOV by Mklink](https://github.com/mklinik/lotro-fov) provides a manual on how to alter the FOV, to help players with motion sickness.
 * [MouseTracks by huntfx](https://github.com/huntfx/MouseTracks/) captures mouse input over a period of time for display in statistical graphics.
