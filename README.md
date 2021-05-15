@@ -58,4 +58,4 @@ Please unbind all actions from the Numpad on your keyboard as this project uses 
 
 [shield_release]: https://img.shields.io/github/v/release/pkurras/durinvi?color=darklime&include_prereleases&style=for-the-badge
 [shield_issue]: https://img.shields.io/github/issues-raw/pkurras/durinvi?style=for-the-badge
-[shield_version]: https://img.shields.io/badge/Tested%20with-Lotro%20Update%2029.0.2-red?style=for-the-badge
+[shield_version]: https://img.shields.io/badge/Tested%20with-Lotro%20Update%2029.5.1-red?style=for-the-badge
